@@ -5,7 +5,7 @@
 # [Lab 04](https://colab.research.google.com/drive/1RFQrd5Tcy4jPc3blmTD3fjtBwVeFSVbc#scrollTo=BbBHi-aP7slM)- Implement Linear Regression using Boston Housing Data
 # [Lab 05](https://colab.research.google.com/drive/17o2lkOUv19pJwFOAkQBBY7lUvB-Zf409#scrollTo=uSZ_1ePNDspV)- Implement Logistic Regression using Titanic Ship Data
 # [Lab 06](https://colab.research.google.com/drive/1eRWLLGFdcnvJNvdGHgCSu0L2Hd8g_Inm#scrollTo=4VC3_OwvKR5A)- Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
-# [Lab 07]()- Implement Support Vector Machine using Breast Cancer Data
-# [Lab 08]()- Implement Decision Tree Classifier using Lending Club Data
+# [Lab 07](https://colab.research.google.com/github/Pranaykadarii/AIML_2025/blob/main/Untitled0.ipynb#scrollTo=JjO3tjT6W0d5)- Implement Support Vector Machine using Breast Cancer Data
+# [Lab 08](https://colab.research.google.com/drive/1Nw99tWUKSKlipU3_9C3I9912cl1he0B8#scrollTo=G2Bk6garYtoS)- Implement Decision Tree Classifier using Lending Club Data
 # [Lab 09]()- Implement Random Forest Ensemble Classifier using Lending Club Data
 # [Lab 10]()-Implement K-Means Clustering using Iris Data
